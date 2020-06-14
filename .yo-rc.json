@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hms.monolithic",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "monolithic",
+    "packageName": "com.hms.monolithic",
+    "packageFolder": "com/hms/monolithic",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGMxZDkwOTc1Njk5Y2IzMjA3ZWYzMjZiZGI1ODFmNDZhOGIxYjgxY2ZjYjQwZDMwZDU5MzhkY2IwNzE1MTczMDdiNDMxZjk1ZTAyYzBkN2FlYzI1NjcyZGZhYTcyNGZjY2EzMmVlODY4ZmQ1YWQ4MDI3MzM3ZDhiODNiYjBkMDI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1592128847540,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "my"],
+    "blueprints": []
+  }
+}
