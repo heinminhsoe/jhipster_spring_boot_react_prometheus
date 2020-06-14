@@ -1,0 +1,9 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["monolithic"],
+    "directoryPath": "../",
+    "monitoring": "prometheus",
+    "serviceDiscoveryType": false,
+    "jwtSecretKey": "MjYxMGZkZDQ5OGJmMDI4NzhkNTg5NDc4NzFmYTlmYzc5ODUxZmRiZDdlNDgyMTg5MjE0ZmI4Y2UzYzE5NjE4OWVjNGQyOTI3YjJlM2FmNWZhYmNlMGQ1N2NhZjQ0OWU1NTc1Nw=="
+  }
+}
