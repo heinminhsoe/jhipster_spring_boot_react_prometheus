@@ -1,0 +1,26 @@
+{
+  "monolithicApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "createLabel": "Job အသစ်ထည့်မည်",
+        "createOrEditLabel": "Job အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Jobs found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Job အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Job တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Job တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Job {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "task": "Task",
+      "employee": "Employee"
+    }
+  }
+}
